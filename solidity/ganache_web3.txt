@@ -1,0 +1,2 @@
+truffe console
+const account = web3.eth.getAccounts(console.log);

@@ -1,0 +1,10 @@
+step 1: set up enviroment - done
+    create contract base on zeppelin contract
+    1.1 install zeppelin contract
+        1.1.1 install nodejs
+        1.1.2 install truffle => truffle init
+        1.1.3 npm init => file json
+        1.2.4 npm install @openzeppelin/contracts
+        1.2.5 research about ERC721 contract https://docs.openzeppelin.com/contracts/2.x/api/token/erc721#ERC721-_safeMint-address-uint256-bytes-
+step 2: create contract - done
+step 3: create mirgation
